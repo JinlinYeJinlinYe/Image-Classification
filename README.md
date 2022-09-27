@@ -1,1 +1,5 @@
 # Image-Classification
+
+本项目采用tensorflow框架实现垃圾分类任务
+
+如果想修改为其他图像分类任务，只需修改dataset里的数据集和config.py文件中的配置信息
